@@ -1,0 +1,13 @@
+h1{
+    border-style: solid;
+    border-color:black;
+    color: rgb(115, 101, 24);
+    border-width: 3px;
+    width:300px;
+}
+.skyblue{
+    color: rgb(4, 178, 205);
+}
+body{
+    background-image:url(resimler/indir.jpg)
+}
