@@ -1,3 +1,1 @@
-Atatürk hakkında kısa bilgilerin olduğu basit bir web sitesi
-
-Sayfanın Linki --->>
+Atatürk hakkında kısa bilgilerin olduğu  bir web sitesi
